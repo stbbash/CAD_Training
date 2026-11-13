@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+.vscode/
+.idea/
+vbash/
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# Env files
+.env
+.env.local
+*.key
+*.secret
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+history.txt
+.history.txt.swo
+.history.txt.swp
+
+node_modules/
+.env
+.wwebjs_auth/
+.wwebjs_cache/
+*.pem
+test-data/Fantasy-Premier-League/
+
+
+# SQLite databases
+data/*.sqlite
+data/*.sqlite3
+data/*.db
+data/*.sqlite-shm
+data/*.sqlite-wal
